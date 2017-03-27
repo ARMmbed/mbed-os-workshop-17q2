@@ -1,1 +1,2 @@
-# mbed-os-workshop-17q2
+# Silicon Partner Workshop - 2017 Q2
+
